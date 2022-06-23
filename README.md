@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Halder</h1>
 <h3 align="center">A tech enthusiast with knowledge of Java, C, C++, Python, SQL, Shell, Linux, Html, CSS, JS, PHP, Spring Boot, MEAN Stack, Machine Learning, AI, Deep Learning from West Bengal, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrata797979" alt="subrata797979" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrata797979" alt="subrata797979" /></a> </p>
 
 - 🌱 I’m currently learning **Java Spring Boot, DSA**
 
