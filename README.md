@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=subrata797979&color=blue)<br>
 
-<h3>### A tech enthusiast with knowledge of Java, C, C++, Python, SQL, Shell, Linux, Html, CSS, JS, PHP, Spring Boot, MEAN Stack, Machine Learning, AI, Deep Learning</h3><br>
+<h3>A tech enthusiast with knowledge of Java, C, C++, Python, SQL, Shell, Linux, Html, CSS, JS, PHP, Spring Boot, MEAN Stack, Machine Learning, AI, Deep Learning</h3><br>
 
 - 👨‍🏭 I’m currently pursuing **MCA from Kalyani Government Engineering College** <br>
 - 🏫 I’m currently learning **Problem Solving, DSA, Web Development, Machine Learning** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **DSA**<br>
-- 🥅 2021 Goals: **Contribute more, learn new things and improve old knowledge** <br>
+- 🥅 2022 Goals: **Contribute more, learn new things and improve old knowledge** <br>
 
 
 🕵 Take a look at my repositories and let's get in touch!<br>
