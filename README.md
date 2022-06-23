@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **subrata797979@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/u/s!AgJqX37WlxrKv3VmVG_OawLRqSVB?e=air0R0](https://1drv.ms/u/s!AgJqX37WlxrKv3VmVG_OawLRqSVB?e=air0R0)
+- 📄 Know about my experiences [Resume OneDrive Link](https://1drv.ms/b/s!AgJqX37WlxrKv3iwKkCDicjlFAhK)
 
 - ⚡ Fun fact **THE GREAT WAY IS NOT DIFFICULT FOR THOSE WHO HAVE NO PREFERENCES. WHEN LOVE AND HATE ARE BOTH ABSENT EVERYTHING BECOMES CLEAR AND UNDISGUISED**
 
