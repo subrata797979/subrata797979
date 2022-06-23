@@ -1,5 +1,5 @@
 
-<h3>Hi, I am Subrata Halder! <img src="https://github.com/subrata797979/subrata797979/blob/main/git.gif" width="30px"></h3><br> <br>
+<h3>Hi, I am Subrata Halder! <img style="padding-left:1rem;" src="https://github.com/subrata797979/subrata797979/blob/main/git.gif" width="30px"></h3><br> <br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=subrata797979&color=blue)<br>
