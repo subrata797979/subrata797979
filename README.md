@@ -1,4 +1,4 @@
-# Hi, I am Subrata Halder! <img src="https://raw.githubusercontent.com/subrata797979/subrata797979/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
+# Hi, I am Subrata Halder! <img src="https://github.com/subrata797979/subrata797979/blob/main/git.gif" width="30px"> <br> <br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=subrata797979&color=blue)<br>
