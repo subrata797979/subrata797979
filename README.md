@@ -32,11 +32,11 @@ ______
 
 
 ### You can connect me through:
-<hr/>
 [![Linkedin Badge](https://img.shields.io/badge/-subrata797979-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subrata797979/)](https://www.linkedin.com/in/subrata797979/) 
 [![Twitter Badge](https://img.shields.io/badge/-@@subrata_797979-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@subrata_797979)](https://twitter.com/@subrata_797979) 
 [![Facebook Badge](https://img.shields.io/badge/-subrata979797-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/subrata979797)](https://www.facebook.com/subrata979797) 
 [![Instagram Badge](https://img.shields.io/badge/-@subrata797979-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/subrata797979)](https://www.instagram.com/subrata797979) 
+<br>
 <p align="left">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/subrata797979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/subrata797979" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/subrata797979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subrata797979/" height="30" width="40" /></a>
