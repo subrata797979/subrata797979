@@ -19,18 +19,6 @@
 
 ______
 
-<br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrata797979&langs_count=20&layout=compact&theme=omni)
-
-<br>
-
-![Subrata's github stats](https://github-readme-stats.vercel.app/api?username=subrata797979&hide=contribs,issues&count_private=true&show_icons=true&theme=omni)
-
-<br>
-
-
 ### You can connect me through:
 [![Linkedin Badge](https://img.shields.io/badge/-subrata797979-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subrata797979/)](https://www.linkedin.com/in/subrata797979/) 
 [![Twitter Badge](https://img.shields.io/badge/-@@subrata_797979-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@subrata_797979)](https://twitter.com/@subrata_797979) 
@@ -42,6 +30,17 @@ ______
 <a href="https://www.leetcode.com/https://leetcode.com/subrata797979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subrata797979/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/subrata797979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/subrata797979" height="30" width="40" /></a>
 </p>
+
+<br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrata797979&langs_count=20&layout=compact&theme=omni)
+
+<br>
+
+![Subrata's github stats](https://github-readme-stats.vercel.app/api?username=subrata797979&hide=contribs,issues&count_private=true&show_icons=true&theme=omni)
+
+<br>
 
 ______
 
