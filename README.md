@@ -2,9 +2,7 @@
 <h3 align="center">A tech enthusiast with knowledge of Java, C, C++, Python, SQL, Shell, Linux, Html, CSS, JS, PHP, Spring Boot, MEAN Stack, Machine Learning, AI, Deep Learning from West Bengal, India</h3>
 <br>
 <br>
-## <img src="./SubrataHalder.png" alt="Banner of Subrata Halder">
-  ![](https://komarev.com/ghpvc/?username=isinicolle&color=ff55aa)  
-![Subrata Halder Banner](https://github.com/subrata797979/subrata797979/blob/main/SubrataHalder.png)
+<img src="./SubrataHalderSmall.png" alt="Banner of Subrata Halder">
 
 - 🌱 I’m currently learning **Java Spring Boot, DSA**
 
