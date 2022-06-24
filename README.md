@@ -17,6 +17,21 @@
 
 - ⚡ Fun fact **THE GREAT WAY IS NOT DIFFICULT FOR THOSE WHO HAVE NO PREFERENCES. WHEN LOVE AND HATE ARE BOTH ABSENT EVERYTHING BECOMES CLEAR AND UNDISGUISED**
 
+______
+
+<br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrata797979&langs_count=10&layout=compact&theme=omni)
+
+<br>
+
+![Isis's github stats](https://github-readme-stats.vercel.app/api?username=subrata797979&hide=contribs,issues&count_private=true&show_icons=true&theme=omni)
+
+<br>
+
+______
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subratahalder97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subratahalder97/" height="30" width="40" /></a>
