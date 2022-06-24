@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subrata Halder</h1>
 <h3 align="center">A tech enthusiast with knowledge of Java, C, C++, Python, SQL, Shell, Linux, Html, CSS, JS, PHP, Spring Boot, MEAN Stack, Machine Learning, AI, Deep Learning from West Bengal, India</h3>
-<br>
+
 <br>
 <img src="./SubrataHalderSmall.png" alt="Banner of Subrata Halder">
+<br>
 
 - 🌱 I’m currently learning **Java Spring Boot, DSA**
 
