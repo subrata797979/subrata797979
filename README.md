@@ -52,7 +52,9 @@ ______
 <br><br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subrata797979)](https://git.io/streak-stats)
 
+<hr>
 
 <h1> __Notes__ </h1>
-Javascript API host free -> https://www.cyclic.sh/
+<hr>
+Javascript API host free -> https://www.cyclic.sh/ <br>
 PHP API host free -> https://in.000webhost.com/
